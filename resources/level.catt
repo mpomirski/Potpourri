@@ -1,0 +1,5 @@
+player_starting_position={692, 530};
+enemy_pos={540, 380};
+enemy_sprite="./resources/enemy.bmp";
+enemy_pattern={altsphere};
+level_background="./resources/background2.bmp";
