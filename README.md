@@ -1,5 +1,5 @@
 # Potpourri
-A simple, yet challenging bullet hell game (with cute kitties)  
+A simple, yet challenging bullet hell game (with cute kitties) - bullet heaven?  
 Written in C++ using the SDL2 Library  
 Includes the compiled binary file and SDL2 dll  
 Enjoy!  
